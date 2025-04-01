@@ -5,3 +5,5 @@ edition = "2024"
 
 [dependencies]
 walkdir = "2"
+show-image = "0.14.1"
+anyhow = "1.0"

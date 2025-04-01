@@ -1,0 +1,2 @@
+An idea to use as an extra feature. 
+proj4rs is a crate to turn a gps coordinate to longitude and latitude.
