@@ -1,0 +1,11 @@
+[package]
+name = "my_project_greyscale_enhanced"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0"
+image = "0.24"
+show-image = "0.14"
+walkdir = "2.4"
+
